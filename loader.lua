@@ -2,9 +2,9 @@
 -- host at: https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/loader.lua
 
 local VALID_KEYS = {
-    ["MADELINE-FREE-001"] = true,
-    ["MADELINE-PRO-001"]  = true,
-    ["MADELINE-TEST-001"] = true,
+    ["MDLKRJBP2BEAA"] = true,
+    ["MDL5QM4BNABEK"] = true,
+    ["MDL9HHLD6VGNT"] = true,
 }
 
 local SCRIPT_URL = "https://raw.githubusercontent.com/sleptalldayyy-beep/MadelineScript/main/main.lua"
